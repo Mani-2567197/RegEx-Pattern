@@ -1,0 +1,8 @@
+E:\C#\Exercises\RegEx\RegEx\bin\Debug\RegEx.exe.config
+E:\C#\Exercises\RegEx\RegEx\bin\Debug\RegEx.exe
+E:\C#\Exercises\RegEx\RegEx\bin\Debug\RegEx.pdb
+E:\C#\Exercises\RegEx\RegEx\obj\Debug\RegEx.csproj.AssemblyReference.cache
+E:\C#\Exercises\RegEx\RegEx\obj\Debug\RegEx.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\RegEx\RegEx\obj\Debug\RegEx.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\RegEx\RegEx\obj\Debug\RegEx.exe
+E:\C#\Exercises\RegEx\RegEx\obj\Debug\RegEx.pdb
